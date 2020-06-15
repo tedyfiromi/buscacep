@@ -1,16 +1,16 @@
-# buscacep
-Projeto SpringBoot BuscaCep
+# EndereçoPorCEP
+Implementação SpringBoot Busca Endereço por CEP
 
-#Objetivo
+# Objetivo
 Este projeto tem o objetivo de realizar a consulta de endereços por numero de cep. O qual deverá
 ser substituído por numeros zero da direita para esquerda caso o cep seja inválido até que encontre
 o endereço.
 
-#Tecnologias utilizadas
+# Tecnologias utilizadas
 SpringBoot, Lombok, Log4j, Dom4j, RestFull, JUnit, Mockito,
 Java 11, Swagger
 
-#Execução do Serviço
+# Execução do Serviço
 Deve ser utilizado o parametro de cep composto pelos números sem hivel conforme exemplo:
 http://localhost:8080/v1/buscacep?cep=05730170
 
