@@ -19,7 +19,7 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring-fox.version>2.9.2</spring-fox.version>
-		<dom4j.version>2.0.1</dom4j.version>
+		<dom4j.version>2.1.3</dom4j.version>
 		<log4j.version>1.2.17</log4j.version>
 	</properties>
 
