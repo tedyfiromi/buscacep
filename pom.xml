@@ -19,7 +19,7 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring-fox.version>2.9.2</spring-fox.version>
-		<dom2.version>2.0.1</dom2.version>
+		<dom4j.version>2.0.1</dom4j.version>
 		<log4j.version>1.2.17</log4j.version>
 	</properties>
 
@@ -35,7 +35,7 @@
 		<dependency>
 			<groupId>org.dom4j</groupId>
 			<artifactId>dom4j</artifactId>
-			<version>${dom2.version}</version>
+			<version>${dom4j.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>io.springfox</groupId>
